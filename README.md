@@ -1,2 +1,2 @@
 # Android-Camera
-For more informations please visit http://zarubond.com/?p=113 .
+For more informations please visit [Zarubond.com](http://zarubond.com/?p=113) .
